@@ -101,7 +101,7 @@ The following preprocessing steps were applied:
 Replace this with your result after running the notebook.
 
 ```text
-Accuracy = XX.XX%
+Accuracy = 81%
 ```
 
 ---
