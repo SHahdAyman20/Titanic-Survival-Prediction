@@ -50,7 +50,7 @@ The following preprocessing steps were applied:
 - Filled missing values in the **Embarked** column using the mode.
 - Dropped the **Cabin** column because it contains many missing values.
 - Removed unnecessary columns:
-  - PassengerId
+  - Cabin
   - Name
   - Ticket
 - Encoded categorical columns:
